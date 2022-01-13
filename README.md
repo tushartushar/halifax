@@ -20,17 +20,21 @@ Beware, phone connections are quite expensive in Canada. At the time of writing 
 ## Bank account
 Time for goodies. Banks in Canada target newcomers and extend attractive offers. These offers may include cash, a monthly fee waiver for a year, and free safety deposit box. Check out the details from websites of major banks (Scotia, TD, CIBC, and BMO) and choose one that fits your needs.
 One interesting (and good) aspect of banking in Canada is that you are eligible to get a credit card (or loan) even if you don't have a credit history (but have a job). In the US, major banks do not offer credit cards unless you have a decent credit score and you don't have a credit score for at least 5-6 months.
+It is recommended that you book an appointment with a bank of your choice prior to landing, so you can have your bank account set up as soon as you get here.
 
 ## Housing
 Honestly, finding a rental apartment is challenging in Halifax. Currently, Nova Scotia is going through a housing crisis. Rental apartments are expensive and scant. They appear in the market and disappear within a couple of days, if not hours. Rental apartments near/in downtown are expensive and small. If you are willing to live within the radius of 4-5 KMs of Halifax downtown, you may get good localities with relatively more supply of apartments (for example, near Bayers Park).
+As for places to find rentals, you can try looking at Facebook marketplace (this is useful for a variety of things, including furniture. You may get some very good deals if you keep an eye out) or Kijiji. 
 
 ## Public transport
-Halifax got public buses (but not metro/train). Within and around Halifax downtown, buses cover the area well with decent frequency. As you go far from the downtown, the network started falling thin.
+Halifax has public buses (but not metro/train). Within and around Halifax downtown, buses cover the area well with decent frequency. As you go far from the downtown, the network starts thinning.
 Each bus ticket costs C$2.75 per ride; each ticket is valid for 90 minutes. If you are taking the bus every day, you may obtain a monthly pass for C$82.50. There is a student pass for Dal students (fee included in their college fee). Dal employees may opt-in for Xpass for around C$60 per month. More details about the Halifax transit system can be found [online](https://www.halifax.ca/transportation/halifax-transit/fares-tickets-passes).
+Keep in mind that the bus stops are not as frequent outside of downtown, and you may need to have some mode of transport to get there. The buses here do have a provision for carrying your bicycle, and you can find bicycles for fairly cheap. Keep in mind, however, that riding a bicycle may be quite uncomfortable during the winter.
 
 ## Groceries
 You can find many big grocery stores such as Walmart, Sobeys, and Atlantic Superstores all over the city. Typically, they not only have vegetables, fruits, meat, dairy, and other products but also a fresh bakery and even fresh coffee. They also typically have an international food section where you may find groceries from other countries.
 For Indian groceries, there are many options. The best option that I came across so far is [New India Bazaar](https://goo.gl/maps/ZvWA2WzfyWnQhtQB8). Some other options are [BIGS](https://g.page/bigstorehalifax?share) and [Namaste Indian grocery](https://goo.gl/maps/Lrmj4Vgo5tgz8qYe7).
+It is recommended that you sign up for memberships for these grocery stores, and have apps like Flipp set up so you get notified when any worthwhile deals are on.
 
 ## Health insurance
 You need to register yourself for provincial health insurance referred to as **Medical Service Insurance** (MSI). All individuals including work/study permit holders, apart from permanent residents and Canadian residents are eligible to obtain the insurance. For the registration, you need to call to MSI office (1-800-563-8880). Upon registration, they will send a form; you need to send the filled form along with a copy of your study/work permit or PR to get the MSI cards.
@@ -46,10 +50,14 @@ Internet broadband for home is offered by many companies such as Bell Alliant an
 ## Driving license
 If you are moving from one of the eight countries (including the USA, Austria, Germany, and the UK) or another Canadian province, you can exchange your existing driving license with the Nova Scotia driving license. You just need to go to any RMV with one identification (such as a passport) and your existing license. 
 If you would like to apply for a fresh driving license, Nova Scotia has a graduated driver license system with 3 levels. You may find more information about driving licenses [online](https://novascotia.ca/driving-and-road-safety/).
+If you are coming from a country that is not among the eight mentioned above, make sure you get your previous license. This can help you circumvent the requirement for holding the learner license for a year. You will still need to write the written test and give the road test though.
 
 ## Car insurance
 Insurance premiums can be quite expensive for new people in Canada. If you have a driving license and driving history from Canada and the USA, then it would help to reduce your car insurance premium. If you are coming directly from another country, be ready to pay a hefty insurance premium at least in the beginning. 
 TD, The Co-operators, Intact, and Aviva are some of the prominent players in the insurance market. When you are looking for car insurance, make sure to get as many as quotes from different providers. Their quotes differ by a very significant margin. The highest quote that I got was three times (yes, 300%) more than my lowest quote for the same benefits/coverage!
+
+## Nova Scotia ID Card
+While living in Nova Scotia, it is recommended that you obtain a Nova Scotia Identification card. The ID is very useful as it will include both your date of birth and your picture. Identification cards can be obtained from `Service Nova Scotia`.
 
 ---
 
