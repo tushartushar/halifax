@@ -24,7 +24,7 @@ It is recommended that you book an appointment with a bank of your choice prior 
 
 ## Housing
 Honestly, finding a rental apartment is challenging in Halifax. Currently, Nova Scotia is going through a housing crisis. Rental apartments are expensive and scant. They appear in the market and disappear within a couple of days, if not hours. Rental apartments near/in downtown are expensive and small. If you are willing to live within the radius of 4-5 KMs of Halifax downtown, you may get good localities with relatively more supply of apartments (for example, near Bayers Park).
-As for places to find rentals, you can try looking at Kijiji or Facebook marketplace (this is useful for a variety of things, including furniture; you may get some very good deals if you keep an eye out). If you are from India, then you can join the facebook group https://www.facebook.com/groups/indiansinhalifax. In this group you will get many post regarding house/room renting in halifax.
+As for places to find rentals, you can try looking at Kijiji or Facebook marketplace (this is useful for a variety of things, including furniture; you may get some very good deals if you keep an eye out). There are some dedicated Facebook groups (such as [Indians in Halifax](https://www.facebook.com/groups/indiansinhalifax)) also to facilitate the search.
 
 ## Public transport
 Halifax has public buses (but not metro/train). Within and around Halifax downtown, buses cover the area well with decent frequency. As you go far from the downtown, the network starts thinning.
@@ -67,3 +67,4 @@ If you would like to add more information to this article, feel free to clone th
 **Contributors:** 
 - Tushar Sharma
 - Qurram Zaheer
+- Shivam Bhojani
