@@ -15,7 +15,7 @@ SIN (Social Insurance Number) is one of the most important things to do once you
 
 ## Phone number
 Obviously, you will need a mobile number from a Canadian provider. You may choose one of the big three companies - Bell, Rogers, and Telus. You may also consider the cheaper alternatives such as Public, Fido, and Koodo, especially for pre-paid accounts.
-Beware, phone connections are quite expensive in Canada. At the time of writing this article, a postpaid connection plan starts from C$80 per month. Figure out any deals available associated with your workplace/university. If you are a Dalhousie employee or student, you can get better deals with Bell; call them to know more.
+Beware, phone connections are quite expensive in Canada. At the time of writing this article, a postpaid connection plan starts from C$80 per month. Figure out any deals available associated with your workplace/university. If you are a Dalhousie employee or student, you can get better deals with Bell; call them to know more. Remember to enquire about miscellaneous charges  and always ask if the SIM card that you are going to buy is compatible with other service providers, in the event where you want to change your service provider in the future.
 
 ## Bank account
 Time for goodies. Banks in Canada target newcomers and extend attractive offers. These offers may include cash, a monthly fee waiver for a year, and free safety deposit box. Check out the details from websites of major banks (Scotia, TD, CIBC, and BMO) and choose one that fits your needs.
@@ -34,7 +34,7 @@ Keep in mind that the bus stops are not as frequent outside of downtown, and you
 ## Groceries
 You can find many big grocery stores such as Walmart, Sobeys, and Atlantic Superstores all over the city. Typically, they not only have vegetables, fruits, meat, dairy, and other products but also a fresh bakery and even fresh coffee. They also typically have an international food section where you may find groceries from other countries.
 For Indian groceries, there are many options. The best option that I came across so far is [New India Bazaar](https://goo.gl/maps/ZvWA2WzfyWnQhtQB8). Some other options are [BIGS](https://g.page/bigstorehalifax?share) and [Namaste Indian grocery](https://goo.gl/maps/Lrmj4Vgo5tgz8qYe7).
-It is recommended that you sign up for memberships for these grocery stores, and have apps like Flipp set up so you get notified when any worthwhile deals are on.
+It is recommended that you sign up for memberships for these grocery stores, and have apps like Flipp set up so you get notified when any worthwhile deals are on. Note that on Tuesdays, there's a 10% discount for students at stores such as Pete's, Atlantic Superstores and Sobey's.
 
 ## Health insurance
 You need to register yourself for provincial health insurance referred to as **Medical Service Insurance** (MSI). All individuals including work/study permit holders, apart from permanent residents and Canadian residents are eligible to obtain the insurance. For the registration, you need to call to MSI office (1-800-563-8880). Upon registration, they will send a form; you need to send the filled form along with a copy of your study/work permit or PR to get the MSI cards.
@@ -58,6 +58,14 @@ TD, The Co-operators, Intact, and Aviva are some of the prominent players in the
 
 ## Nova Scotia ID Card
 While living in Nova Scotia, it is recommended that you obtain a Nova Scotia Identification card. The ID is very useful as it will include both your date of birth and your picture. Identification cards can be obtained from `Service Nova Scotia`.
+
+## Weather
+
+Halifax has an eastern-maritime climate, which means that Winter temperatures are higher and summer temperatures are lower than those encountered in towns farther inland. Summers are short and warm whereas Winters are considerably cold and longer. Also, Sunshine is less common in Halifax than in most Canadian cities. From June to August days become warmer and warmer. Temperatures can rise above 30°C, especially between July and August. Late fall and winter tend to be cold and wet. The temperature in winter typically ranges between (-10 °C to 0 °C). The Winter season, though not as extreme as it is in Provinces like Alberta and Ontario, tends to feel harsh due to the effects of the westerly wind.  Daylight decreases from November onwards and days 'become shorter'. One can start seeing snow from early November to late April. It is highly advisable to take necessary precautions against wind chill, which is the cooling sensation that is caused by the combined effect of temperature and wind. Our bodies warm a thin layer of air near to our skin, known as the boundary layer, on calm days in order to insulate us from the temperature outside. This protection is eliminated by the wind when it blows, exposing our skin to the elements. Our bodies require energy to build up a fresh layer. Our skin temperature will decrease if successive layers are continually blown away, making us feel colder.
+
+## Winter Apparel
+
+Several international students tend to make a mistake of purchasing winter clothing from their home nations, due to competitive prices, before travelling to Halifax. While this might work in some instances, it's highly recommended to purchase Winter clothing in Canada. Popular brands include Columbia, Helly Hensen and The North Face. There are great deals during Black Friday sales, which occurs in late November, during which you can buy jackets, gloves and boots which are vital to deal with snow and black ice. 
 
 ---
 
