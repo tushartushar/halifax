@@ -67,6 +67,11 @@ Halifax has an eastern-maritime climate, which means that Winter temperatures ar
 
 Several international students tend to make a mistake of purchasing winter clothing from their home nations, due to competitive prices, before travelling to Halifax. While this might work in some instances, it's highly recommended to purchase Winter clothing in Canada. Popular brands include Columbia, Helly Hensen and The North Face. There are great deals during Black Friday sales, which occurs in late November, during which you can buy jackets, gloves and boots which are vital to deal with snow and black ice. 
 
+## Tips for students by students
+* It is better to attend all the orientations that the university organizes for first year students. Also, NSID camps and SIN camps would be a part of on-campus orientation activity which you can avail. No need to worry much about doing everything on your own!
+* If you are an international student with a phone which is older than 3 years(but still in good working condition), try upgrading your phone. You don't want to be left phone-less in case this phone stops working!
+* Attend social and speed-friending events to make friends from different majors!
+
 ---
 
 ## Contribute
