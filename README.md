@@ -6,7 +6,9 @@ Are you moving to Halifax, NS, Canada? Notes in this article might help you get 
 
 ## Landing in Canada
 
-When you first land in any of the international airports in Canada, you will be directed to cross immigration. Typically, you plan your travel to Canada when your work/study permit or permanent residency (PR) application is approved. At the border, you will be asked to produce the permit or PR approval and you will get an actual work/study permit or PR. The whole process may take 2-3 hours, especially when the queue is long (sometimes 2-3 international flights come at the same time). Plan for it and do not book your connecting domestic flight, if any, with only 1-2 hours of gap.
+When you first land in any of the international airports in Canada, you will be directed to cross immigration. Typically, you plan your travel to Canada when your work/study permit or permanent residency (PR) application is approved. At the border, you will be asked to produce the permit or PR approval and you will get an actual work/study permit or PR. The whole process may take 2-3 hours, especially when the queue is long (sometimes 2-3 international flights come at the same time). Plan for it and do not book your connecting domestic flight, if any, with only 1-2 hours of gap. 
+
+**Pro Tip:** Download the ArriveCAN app (available on [iOS](https://apps.apple.com/ca/app/arrivecan/id1505394667) and [Android](https://play.google.com/store/apps/details?id=ca.gc.cbsa.coronavirus&hl=en_CA&gl=US)) to conveniently answer customs and immigration questions up to 72 hours before flying into Canada. By doing so, you can minimize the time spent at a primary inspection kiosk (PIK) or eGate upon arrival at the airport, contributing to shorter line-ups in arrivals halls.
 
 ## Local address
 
